@@ -32,8 +32,9 @@ Entregables
 
 Enlaces
 
-- Airtable: https://airtable.com/invite/l?inviteId=invmBbt5yDcKtLkHC&inviteToken=c10c5ef5f64d999010e0a779b7ed17e7682bbaf090c0d8ae5d23d9625868f37b&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
-
+- Airtable tablas: https://airtable.com/invite/l?inviteId=invmBbt5yDcKtLkHC&inviteToken=c10c5ef5f64d999010e0a779b7ed17e7682bbaf090c0d8ae5d23d9625868f37b&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+- Airtable dashboard: https://airtable.com/app9y0S7I96zlHLJE/pagNuivJM1Yi3bFeh
+  
 Consideraciones
 
 Las propuestas generadas por IA son borradores y requieren aprobación humana antes de su comunicación interna.
