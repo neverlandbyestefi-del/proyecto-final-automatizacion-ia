@@ -25,10 +25,11 @@ Funcionamiento
 
 Entregables
 
-- Informe final en PDF.
+- Informe final en PDF qué contiene el flujo de arquitectura 
 - Blueprints de los dos escenarios de Make.
 - Video demostrativo.
 - Base de datos en Airtable.
+- Dashboard en Airtable 
 
 Enlaces
 
