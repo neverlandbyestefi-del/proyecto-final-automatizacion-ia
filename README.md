@@ -17,7 +17,7 @@ Tecnologías
 
 Funcionamiento
 
-1. Airtable registra las solicitudes. Link: https://airtable.com/invite/l?inviteId=invmBbt5yDcKtLkHC&inviteToken=c10c5ef5f64d999010e0a779b7ed17e7682bbaf090c0d8ae5d23d9625868f37b&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+1. Airtable registra las solicitudes. 
 2. Make envía la información a Cohere para generar un borrador.
 3. La propuesta se guarda en Airtable para su revisión.
 4. Una persona aprueba la propuesta antes de continuar.
@@ -32,7 +32,7 @@ Entregables
 
 Enlaces
 
-- Airtable: PEGAR AQUÍ EL ENLACE DE TU BASE.
+- Airtable: https://airtable.com/invite/l?inviteId=invmBbt5yDcKtLkHC&inviteToken=c10c5ef5f64d999010e0a779b7ed17e7682bbaf090c0d8ae5d23d9625868f37b&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
 
 Consideraciones
 
